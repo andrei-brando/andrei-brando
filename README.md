@@ -4,7 +4,7 @@ My name is Andrei Albert Brando, I'm from Brazil 🇧🇷 and I'm a Software Dev
 
 -📍 From RS
 
--💻 I'm working at [Growdev](https://growdev.com.br/)
+-💻 I'm working at [Red Ventures Brazil](https://www.redventures.com/)
 
 Reach me out 👇🏼
 
