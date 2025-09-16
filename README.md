@@ -1,10 +1,10 @@
 ## Hii! 👋🏼🖖🏼
 
-My name is Andrei Albert Brando, I'm from Brazil 🇧🇷 and I'm a Software Developer
+My name is Andrei Albert Brando, I'm from Brazil 🇧🇷 and I'm a Backend Software Engineer
 
 -📍 From RS
 
--💻 I'm working at [Red Ventures Brazil](https://www.redventures.com/)
+-💻 I'm working at [Onze](https://www.onze.com.br/)
 
 Reach me out 👇🏼
 
